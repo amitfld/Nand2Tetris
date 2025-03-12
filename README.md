@@ -5,4 +5,4 @@ The Nand2Tetris course is designed to explore the fundamental principles of comp
 ## Repository Structure
 This repository is organized according to the course's project structure. Each folder corresponds to a specific module or project:
 - **Project 1: Boolean Logic**
--- Implementation of fundamental logic gates using NAND gates.
+  - Implementation of fundamental logic gates using NAND gates.
