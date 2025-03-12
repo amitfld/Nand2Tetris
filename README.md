@@ -4,5 +4,5 @@ Welcome to my Nand2Tetris repository! This space documents my journey through th
 The Nand2Tetris course is designed to explore the fundamental principles of computer science by guiding students to construct a fully functional computer system from the ground up. The course combines elements of hardware design, software development, and operating system concepts.
 ## Repository Structure
 This repository is organized according to the course's project structure. Each folder corresponds to a specific module or project:
-- **Java Project - Collections and Files**
-- Implementation of fundamental logic gates using NAND gates.
+- **Project 1: Boolean Logic**
+-- Implementation of fundamental logic gates using NAND gates.
