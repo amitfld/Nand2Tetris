@@ -27,7 +27,7 @@ This repo is organized by project modules:
 | **Project 5: Computer Architecture**    | 🖥️ Creation of the Hack CPU and Memory system.                                                       |
 | **Project 6: Assembler**                | 🛠️ Implementation of an assembler for the Hack platform.                                             |
 | **Project 7 & 8: VM Translator**        | 🌀 Building a stack-based virtual machine and translator.                                             |
-| **Project 9: High-Level Language (Game)**| 🎮 Designing and coding a simple game using the Jack programming language. Check out the [Traffic Racer Game]([google.com](https://github.com/amitfld/Traffic-Racer-Game))! |
+| **Project 9: High-Level Language (Game)**| 🎮 Designing and coding a simple game using the Jack programming language. Check out the [Traffic Racer Game](https://github.com/amitfld/Traffic-Racer-Game)! |
 | **Project 10 & 11: Compiler**           | 🖋️ Designing and completing the Jack compiler.                                                       |
 
 ---
